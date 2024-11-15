@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "treatment": "Veneers",
+        "image": "https://i.ibb.co/ZzRZN3s/Veneers.jpg",
+        "description": "Dental veneers are thin, tooth-colored shells that cover the front surfaces of teeth to improve their look. They're usually composed of porcelain or resin-composite materials and are glued to your teeth permanently. Veneers can be used to correct a variety of aesthetic issues, including chipped, cracked, discolored, or undersized teeth. When a tooth is cracked or chipped, some people only need one veneer, but most people need six to eight veneers to achieve an equal, symmetrical smile. Veneers are most typically used on the upper front eight teeth.",
+        "cost": 500
+    },
+    {
+        "id": 2,
+        "treatment": "Dental Implants",
+        "image": "https://i.ibb.co/xyz1234/Implants.jpg",
+        "description": "Dental implants are metal posts that replace the root portion of missing teeth. Implants are surgically placed in your jawbone, providing a stable base for artificial teeth, such as crowns. This treatment is ideal for those who have lost teeth due to injury or decay.",
+        "cost": 1500
+    },
+    {
+        "id": 3,
+        "treatment": "Teeth Whitening",
+        "image": "https://i.ibb.co/xyz5678/Whitening.jpg",
+        "description": "Teeth whitening is a procedure that lightens the shade of your teeth. It's commonly done to remove stains and discoloration caused by food, beverages, smoking, and aging. Whitening treatments can be done in-office or with at-home kits.",
+        "cost": 300
+    },
+    {
+        "id": 4,
+        "treatment": "Orthodontic Braces",
+        "image": "https://i.ibb.co/abc9876/Braces.jpg",
+        "description": "Orthodontic braces are devices used to align and straighten teeth, and to improve dental health. Braces apply steady pressure to teeth, gradually moving them into alignment over time. This treatment is commonly used to correct crooked or misaligned teeth.",
+        "cost": 2500
+    },
+    {
+        "id": 5,
+        "treatment": "Root Canal Therapy",
+        "image": "https://i.ibb.co/efg6543/Root-Canal.jpg",
+        "description": "Root canal therapy is a treatment used to repair and save a tooth that is badly decayed or infected. During the procedure, the infected pulp is removed, and the tooth is cleaned and sealed to prevent further damage.",
+        "cost": 800
+    },
+    {
+        "id": 6,
+        "treatment": "Dental Crowns",
+        "image": "https://i.ibb.co/xyz1239/Crowns.jpg",
+        "description": "Dental crowns are caps placed over damaged teeth to restore their shape, size, strength, and appearance. Crowns are typically recommended for teeth that have large fillings, cracks, or severe decay.",
+        "cost": 1000
+    },
+    {
+        "id": 7,
+        "treatment": "Dental Bonding",
+        "image": "https://i.ibb.co/xyz4560/Bonding.jpg",
+        "description": "Dental bonding involves applying a tooth-colored resin to repair chipped, cracked, or discolored teeth. The material is bonded to the tooth using a special light, improving its appearance.",
+        "cost": 400
+    },
+    {
+        "id": 8,
+        "treatment": "Gum Contouring",
+        "image": "https://i.ibb.co/xyz7891/Gum-Contouring.jpg",
+        "description": "Gum contouring is a procedure that reshapes the gum line to improve the appearance of the smile. This treatment is often done to correct a 'gummy' smile or to even out the gum line.",
+        "cost": 600
+    },
+    {
+        "id": 9,
+        "treatment": "Invisalign",
+        "image": "https://i.ibb.co/xyz1011/Invisalign.jpg",
+        "description": "Invisalign uses a series of custom-made, clear aligners to straighten teeth. These aligners are nearly invisible and can be removed for eating and cleaning. Invisalign is a popular alternative to traditional braces.",
+        "cost": 3000
+    },
+    {
+        "id": 10,
+        "treatment": "Tooth Extraction",
+        "image": "https://i.ibb.co/xyz1112/Extraction.jpg",
+        "description": "Tooth extraction is a procedure to remove a tooth that is damaged, decayed, or causing crowding. Extractions are typically done to prevent further issues or to prepare for other dental procedures.",
+        "cost": 200
+    }
+]
